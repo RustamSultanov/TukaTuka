@@ -1706,7 +1706,7 @@
 			}
 
 		#banner p {
-			text-transform: uppercase;
+			text-transform: none;
 			color: #fff;
 			color: rgba(255, 255, 255, 0.75);
 			font-size: 1.5em;
