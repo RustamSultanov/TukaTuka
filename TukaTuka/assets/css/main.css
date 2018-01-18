@@ -1817,8 +1817,8 @@
 		border-color: #444;
 		border-color: rgba(255, 255, 255, 0.075);
 		text-align: center;
-		margin-top: 2em;
-		padding: 3em 0 4em 0;
+		margin-top: 0.1em;
+		padding: 0.2em 0 0.4em 0;
 		color: inherit;
 	}
 
@@ -1854,7 +1854,7 @@
 			}
 
 			#footer-wrapper {
-				padding: 7em 0 7em 0;
+				padding: 0.1em 0 0.1em 0;
 			}
 
 		/* Header */
