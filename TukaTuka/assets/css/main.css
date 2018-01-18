@@ -1359,7 +1359,7 @@
 			
 			height:400px;
 		}
-
+		
 	.image {
 		position: relative;
 		display: inline-block;
@@ -1754,7 +1754,7 @@
 		position: relative;
 		text-shadow: 1px 1px 0 #fff;
 		background-color: #fff;
-		background-image: url("images/bg03.png"), url("images/bg02.png");
+		background-image: url("images/bg03.png"), url("images/bg04.png"), url("images/bg02.png");
 		background-repeat: no-repeat, no-repeat, repeat;
 		background-size: 100% 15em, 100% 15em, auto auto;
 		background-position: top center, bottom center, top left;
