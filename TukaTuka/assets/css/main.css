@@ -1355,7 +1355,10 @@
 			}
 
 /* Image */
-
+#about-img {
+			
+			height:500px;
+		}
 	.image {
 		position: relative;
 		display: inline-block;
