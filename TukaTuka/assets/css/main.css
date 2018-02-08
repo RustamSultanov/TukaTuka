@@ -1319,6 +1319,16 @@ table {
     border-spacing: 0;
     width: 100%;    
 }
+.bordered thead th
+{
+  font-size: 120%; 
+  font-weight: bold;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-topleft: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top: 1px solid #eaeaea;
+}
 
 .bordered {
     -moz-border-radius: 6px;
